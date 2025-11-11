@@ -13,6 +13,13 @@
   <br />
 </div>
 
+
+## 🔗 Repository Links
+
+-   Backend Repository: [https://github.com/zanzo2003/ZipLink-Snip-It.-Share-It.-Track-It.](https://github.com/zanzo2003/ZipLink-Snip-It.-Share-It.-Track-It.)
+-   Frontend Repository: [https://github.com/zanzo2003/ZipIt-frontend](https://github.com/zanzo2003/ZipIt-frontend)
+
+
 ## ✨ Features
 
 ZipIt streamlines the process of shortening URLs, making sharing links effortless and efficient. Our platform is built to deliver the ultimate link management experience.
@@ -115,5 +122,3 @@ Contributions are what make the open-source community such an amazing place to l
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
