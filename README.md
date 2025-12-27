@@ -25,7 +25,7 @@
 ZipIt streamlines the process of shortening URLs, making sharing links effortless and efficient. Our platform is built to deliver the ultimate link management experience.
 
 -   🔗 **Simple URL Shortening**: A clean and intuitive interface for creating short, memorable URLs in just a few clicks.
--   📊 **Powerful Analytics**: Gain deep insights with a comprehensive analytics dashboard. Track clicks, geographic data, and referral sources in real-time to optimize your campaigns.
+-   📊 **Powerful Analytics**: Gain deep insights with a comprehensive analytics dashboard. Track clicks in real-time to optimize your campaigns.
 -   🛡️ **Enhanced Security**: Rest assured with robust security measures. All links are protected, and user data is secured using JWT-based authentication.
 -   ⚡ **Fast & Reliable**: Enjoy lightning-fast redirects and high uptime thanks to a reliable, high-performance infrastructure.
 
